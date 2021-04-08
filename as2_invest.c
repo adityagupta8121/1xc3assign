@@ -1,3 +1,5 @@
+//Aditya Gupta
+
 #include <stdio.h>
 
 int main(void)
